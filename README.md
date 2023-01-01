@@ -6,7 +6,7 @@ I am a Fixed Income Quantitative Analyst on the rates & credit team at Fairtree 
 
 #### 🔭 Work
 
-- Various flavors of modelling: interest-rates, credit risk, volatility
+- Various flavors of modelling: interest rates, credit risk, volatility
 - Systematic trading strategies
 - Portfolio optimization
 - Programming in Python, C++, MATLAB
