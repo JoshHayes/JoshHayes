@@ -1,8 +1,7 @@
 ### Hey, I'm Josh ♾️
 
-I am a Fixed Income Quantitative Analyst on the rates & credit team at Fairtree Capital where I teach mathematics to computers.
-
-[![GitHub Stats](https://github-readme-stats-joshhayes.vercel.app/api?username=JoshHayes&show_icons=true&count_private=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+> Fixed Income Quantitative Analyst on the rates & credit team at Fairtree Capital.  
+> I teach mathematics to computers.
 
 #### 🔭 Work
 
@@ -21,6 +20,8 @@ I am a Fixed Income Quantitative Analyst on the rates & credit team at Fairtree 
 - 💼 [LinkedIn](https://www.linkedin.com/in/joshjohayes/)
 - 🐦 [Twitter](https://twitter.com/thejoshhayes)
 - 🐘 [Mathstodon](https://mathstodon.xyz/@hayes)
+
+[![GitHub Stats](https://github-readme-stats-joshhayes.vercel.app/api?username=JoshHayes&show_icons=true&count_private=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on ...
