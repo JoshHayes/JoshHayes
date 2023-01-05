@@ -2,7 +2,7 @@
 
 I am a Fixed Income Quantitative Analyst on the rates & credit team at Fairtree Capital where I teach mathematics to computers.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoshHayes&show_icons=true&count_private=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-eta-sable-87.vercel.app/api?username=JoshHayes&show_icons=true&count_private=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🔭 Work
 
