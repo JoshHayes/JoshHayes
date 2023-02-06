@@ -12,7 +12,9 @@
 
 #### 🌱 Learning
 
-- Dependently typed programming in [Agda](https://github.com/agda/agda)
+- Dependently typed programming in [Agda](https://github.com/agda/agda) 
+  - probability theory and statistics
+  - compositional specification of financial contracts
 - Always discovering more about functional programming in [Haskell](https://www.haskell.org/)
 
 #### 📫 Contact
