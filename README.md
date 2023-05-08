@@ -1,6 +1,6 @@
 ### Hey, I'm Josh ♾️
 
-> Fixed Income Quantitative Analyst on the rates & credit team at Fairtree Capital.  
+> I am a Quantitative Analyst on the Fixed Income team at Fairtree Capital.  
 > I teach mathematics to computers.
 
 #### 🔭 Work
@@ -12,7 +12,9 @@
 
 #### 🌱 Learning
 
-- Dependently typed programming in [Agda](https://github.com/agda/agda) 
+- Causal inference and Bayesian statistics
+  - [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2023) by Richard McElreath
+- Dependently-typed programming in [Agda](https://github.com/agda/agda) 
   - probability theory and statistics
   - compositional specification of financial contracts
 - Always discovering more about functional programming in [Haskell](https://www.haskell.org/)
