@@ -1,13 +1,13 @@
-### Hey, I'm Josh ♾️
+### Hey, I'm Joshua Hayes ♾️
 
-> I am a Quantitative Analyst on the Fixed Income team at Fairtree Capital.  
+> I am a Quantitative Analyst on the Fixed Income team at Fairtree Asset Management.  
 > I teach mathematics to computers.
 
 #### 🔭 Work
 
-- Various flavors of modelling: interest rates, credit risk, volatility
+- Mathematical modelling: interest rates, credit risk, volatility
 - Systematic trading strategies
-- Portfolio optimization
+- Portfolio optimization, portfolio selection
 - Programming in Python, C++, MATLAB
 
 #### 🌱 Learning
@@ -15,9 +15,10 @@
 - Causal inference and Bayesian statistics
   - [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2023) by Richard McElreath
 - Dependently-typed programming in [Agda](https://github.com/agda/agda) 
+  - Correct Approximate Computing
   - probability theory and statistics
   - compositional specification of financial contracts
-- Always discovering more about functional programming in [Haskell](https://www.haskell.org/)
+- Functional programming in [Haskell](https://www.haskell.org/)
 
 #### 📫 Contact
 
